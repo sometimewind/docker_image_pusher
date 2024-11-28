@@ -1,3 +1,2 @@
 logstash:7.17.3
 nacos:2.3.2
-minio:RELEASE.2021-06-17T00-10-46Z-28-gac7697426
