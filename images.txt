@@ -1,1 +1,1 @@
-python:3.11-slim-bookworm
+arm32v7/python:3.11-slim
