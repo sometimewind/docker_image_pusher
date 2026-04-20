@@ -1,2 +1,2 @@
-arm64v8/python:3.11-slim
-python:3.11-slim-arm64
+pgvector/pgvector:pg16
+minio/minio:latest
